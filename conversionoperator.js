@@ -25,3 +25,24 @@ console.log(typeof valueInNumber)
 // See the difference in both 
 
 console.log(valueInNumber)    // NaN
+
+
+
+///////////////////////////////operations//////////////////////////////////
+
+let value = 3
+let negValue = -value
+
+console.log(negValue)  // -3
+
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/2)
+
+console.log(true) // true
+
+console.log(+true) // 1
+
+console.log(+"")  // 0
