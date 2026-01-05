@@ -114,3 +114,8 @@ jsUser.greeting2 = function(){
 }
 
 console.log(jsUser.greetin2)
+
+
+const tinderUser = new object()
+
+console.log(tinderUser)
