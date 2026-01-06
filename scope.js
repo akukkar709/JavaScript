@@ -16,3 +16,19 @@ if (true){
 // console.log(a); // error 
 console.log(b); // 20
 // console.log(c); //error 
+
+
+function One(){
+
+    const Username = "Aarish"
+
+    function two(){
+        const website = "Youtube"
+        console.log(Username)
+    }
+    // console.log(website);
+
+    two()
+}
+
+One()
