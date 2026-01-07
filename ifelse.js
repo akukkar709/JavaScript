@@ -18,3 +18,22 @@ const score = 200
 if(score>100){
     
 }
+
+
+
+const userLoggedIn = true
+const debitCard = true
+
+const loggedInFromGoogle = false
+const logggedInFromEmail = true
+
+
+if(userLoggedIn && debitCard){
+    console.log("Allow to Shopping")
+    
+}
+
+if(loggedInFromGoogle || logggedInFromEmail){
+    console.log("Move to Further shopping")
+}
+
