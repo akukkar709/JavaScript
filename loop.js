@@ -16,3 +16,8 @@ for (let j = 0; j < 10; j++) {
     
    }
 }
+
+
+
+// continue statement 
+// break  statement 
